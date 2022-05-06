@@ -1,0 +1,62 @@
+/* Created by: Marcus Wehbi
+ * Created on: May 2022
+ * This CSS file defines the style for index.php
+ * ICS2O-Unit4-04-PHP-Museum
+*/
+
+body {
+  background-color: #fffadb;
+}
+
+form {
+  background-color: #bce1d1;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h1 { 
+  background-color: #ddfdde;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h3 {
+  background-color: #dae7e4;
+  text-align: center;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+}
+
+h4 {
+  background-color: #eaf9e1;
+  text-align: center;
+  padding: 5px;
+  width: 80%;
+  margin-left: 5%;
+}
+
+p {
+  width: 80%;
+  margin-left: 10%;
+}
+
+iframe {
+  margin-bottom: 5%;
+  background-color: #ffb685;
+	padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+	margin-top: 15px;
+}
+
+#yellow {
+  background-color: #c3adff;
+  padding: 20px;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 30px;
+}
